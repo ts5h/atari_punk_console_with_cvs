@@ -3,7 +3,7 @@
 An Atari Punk Console with dual NE555, GATE and CV Inputs.
 
 ## Schematic
-<img alt="Schematic" src="https://github.com/user-attachments/assets/bae5d0c9-1d40-43fa-9feb-635277ec016f" />
+<img alt="Schematic" src="./schematic.png" />
 
 ## License
 [MIT License](./LICENSE)  
