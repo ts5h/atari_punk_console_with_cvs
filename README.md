@@ -1,4 +1,4 @@
-# Atari Punk Console 
+# Atari Punk Console with CVs
 
 An Atari Punk Console with dual NE555, GATE and CV Inputs.
 
