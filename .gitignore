@@ -1,2 +1,5 @@
-apc_with_controls
 *.psd
+
+/apc_with_controls
+/temp
+
