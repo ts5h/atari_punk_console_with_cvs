@@ -4,7 +4,8 @@ An Atari Punk Console with dual NE555, GATE and CV Inputs.
 
 
 ## Schematic
-You can verify the behavior of the GATE section through simulation. In LTSpice, open the `spice/GATE.asc` file and run the simulation.
+You can check the behavior of the GATE section through simulation.  
+In [LTSpice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html), open the `spice/GATE.asc` file and run the simulation.
 
 <img alt="Schematic" src="./schematic.png" />
 
